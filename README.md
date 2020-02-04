@@ -12,7 +12,7 @@ SO THAT I can use it as a starting point for a new project
 
 ## Business Context
 
-When joining a new team, it is expected to inspect a lot of new code. Rather than having a team member explain every line for I will dissect the code by myself, saving any questions for a member of the team.
+When joining a new team, it is expected to inspect a lot of new code. Rather than having a team member explain every line, I will dissect the code by myself, saving any questions for a member of the team.
 
 ## Criteria
 
